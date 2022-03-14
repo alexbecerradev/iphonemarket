@@ -14,9 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 Diseño y programación de una app para compras de productos (tecnología en este caso) 
 
 
-![Screenshot_20220314_153226](https://user-images.githubusercontent.com/78002992/158238145-170b2e3f-c58d-4060-a27c-e2ff24870840.png)
-![Screenshot_20220314_153146](https://user-images.githubusercontent.com/78002992/158238146-04ee5eb1-7267-4d96-801d-1e8dc2caa452.png)
-![Screenshot_20220314_153213](https://user-images.githubusercontent.com/78002992/158238136-2e16cebf-6cf0-4bf0-814d-1330cf4417de.png)
+![screen](https://user-images.githubusercontent.com/78002992/158238861-4b4a1610-4e3e-4d27-931f-2ced7a3d7f2a.jpg)
+
 
 
 Fluter DEV ||.................................................. 5%
